@@ -7,8 +7,8 @@ Users can add, modify, delete, and manage recipes. Additionally, they can rate r
 
 ---
 ## Authors
-- [filip-wojc](https://github.com/filip-wojc)
 - [DarknessoPirate](https://github.com/DarknessoPirate)
+- [filip-wojc](https://github.com/filip-wojc)
 
 ---
 ## Features
